@@ -12,6 +12,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="Calendar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calendar.h" />
+    <ClInclude Include="Date.h" />
+    <ClInclude Include="Event.h" />
+    <ClInclude Include="Project.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6E6701C3-CE02-40B0-936A-F931E5E74F09}</ProjectGuid>
